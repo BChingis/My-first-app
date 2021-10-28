@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">My First App</string>
-    <string name="bye">Bye</string>
-    <string name="hello">Hello</string>
-    <string name="button">Button</string>
+    <string name="bye">Пока</string>
+    <string name="hello">Привет</string>
+    <string name="button">Кнопка</string>
+    <string name="random">Random</string>
 </resources>
